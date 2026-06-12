@@ -2,3 +2,4 @@
 
 Repositório de treino para praticar push, pull, merge e PRs.
 Editado no GitHub para testar fetch.
+O colega também contribuiu.
